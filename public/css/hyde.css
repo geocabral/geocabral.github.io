@@ -62,8 +62,6 @@ html {
 
 .sidebar fig{
   border-radius: 50%;
-  width: 100px;
-  height: 100px;
 }
 
 @media (min-width: 48em) {
