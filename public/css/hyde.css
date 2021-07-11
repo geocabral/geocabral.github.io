@@ -58,7 +58,9 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
-  
+}
+
+.sidebar-fig {
   border-radius: 250px;
   background: #73AD21;
   padding: 20px;
@@ -66,6 +68,8 @@ html {
   height: 120px;
   
 }
+
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
