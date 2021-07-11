@@ -61,7 +61,7 @@ html {
   background-color: #202020;
 }
 
-.sidebar fig{
+img.rounded-corners {
   border-radius: 50%;
 }
 
