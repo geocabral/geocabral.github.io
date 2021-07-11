@@ -60,7 +60,11 @@ html {
   background-color: #202020;
 }
 
-
+.sidebar fig{
+  rounborder-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
 
 @media (min-width: 48em) {
   .sidebar {
