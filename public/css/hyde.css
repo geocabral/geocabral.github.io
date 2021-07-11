@@ -59,11 +59,11 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #8f5536;
 }
-/*
+
 img.rounded-corners {
-  border-radius: 50%;
+  border-radius: 30%;
 }
-*/
+
 
 @media (min-width: 48em) {
   .sidebar {
