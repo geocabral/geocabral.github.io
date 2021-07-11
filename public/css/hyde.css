@@ -52,8 +52,9 @@ html {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
-
+ 
 .sidebar {
+  margin-bottom: 3cm;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -61,6 +62,7 @@ html {
 }
 
 .sidebar fig{
+  
   border-radius: 50%;
 }
 
