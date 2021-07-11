@@ -86,12 +86,12 @@ img.rounded-corners {
   color: #fff;
   margin-top: 0;
   font-family: "Times";
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.4rem;
 }
 .sidebar-nav-item {
   display: block;
