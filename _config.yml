@@ -9,9 +9,7 @@ highlighter:      pygments
 # Setup
 title:            George G. Cabral, Dr.
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+description:      'Intrigued by machine learning algorithms applied to any real world domain.'
 
 author:
   name:           'Mark Otto'
