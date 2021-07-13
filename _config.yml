@@ -8,7 +8,6 @@ highlighter:      pygments
 
 # Setup
 title:            'George G. Cabral, Dr.'
-tagline:          'A Jekyll theme'
 description:      'Intrigued by machine learning algorithms applied to any real world domain.'
 
 author:
