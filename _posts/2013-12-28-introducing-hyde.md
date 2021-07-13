@@ -14,14 +14,9 @@ BSc in Computer Engineering, University of Pernambuco (2005)
 
 ### Research Interests
 
-Mining Data Streams, Online Learning and Concept Drift
-
-Class Imbalanced Learning
-
-Ensembles of Learning Machines
-
-Novelty Detection
-
-Applications of the above to Software Engineering
-
-Applications of the above to Intrusion Detection Systems
+* Mining Data Streams, Online Learning and Concept Drift
+* Class Imbalanced Learning
+* Ensembles of Learning Machines
+* Novelty Detection
+* Applications of the above to Software Engineering
+* Applications of the above to Intrusion Detection Systems
