@@ -6,7 +6,6 @@ title: George Gomes Cabral, Dr
 ## About
 
 
-
 ### Assistant Professor (Lecturer), Department of Computing, Federal Rural University of Pernambuco, Recife, Brazil
 
 * PosDoc, Univesity of Birmingham, (2019)
