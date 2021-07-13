@@ -4,7 +4,7 @@ title: George Gomes Cabral, Dr
 ---
 
 
-### Adjunct Lecturer, Department of Computing, Federal Rural University of Pernambuco, Recife, Brazil
+### Assistant Professor (Lecturer), Department of Computing, Federal Rural University of Pernambuco, Recife, Brazil
 
 * PosDoc, Univesity of Birmingham, (2019)
 * PhD in Computer Science, Federal University of Pernambuco (2014)
