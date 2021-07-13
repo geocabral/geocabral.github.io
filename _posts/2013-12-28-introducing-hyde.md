@@ -3,7 +3,7 @@ layout: default
 title: George Gomes Cabral, Dr
 ---
 
-## About
+# About
 
 
 ### Assistant Professor (Lecturer), Department of Computing, Federal Rural University of Pernambuco, Recife, Brazil
