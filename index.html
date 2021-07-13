@@ -3,17 +3,12 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+
   <div class="post">
     
-    {% for p in pages %}
+    {% for p in paginator.posts %}
     {% if p.title == 'George Gomes Cabral, Dr' %}
-    <h1 class="post-title">
-      {{p.title}}
-    </h1>
-
     {{p.content}}
     {% endif %}
     {% endfor %}
   </div>
-</div>
