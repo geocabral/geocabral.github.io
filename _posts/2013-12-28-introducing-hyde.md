@@ -1,8 +1,23 @@
 ---
-layout: post
-title: Introducing Hyde
+title: George Gomes Cabral, Dr
 ---
 
+
+### Adjunct Lecturer, Department of Computing, Federal Rural University of Pernambuco, Recife, Brazil
+
+
+PhD in Computer Science, Federal University of Pernambuco (2014)
+MSc in Computer Science, Federal University of Pernambuco (2008)
+BSc in Computer Engineering, University of Pernambuco (2005)
+
+
+### Research Interests
+
+Mining Data Streams, Online Learning and Concept Drift
+Class Imbalanced Learning
+Ensembles of Learning Machines
+Evolutionary Algorithms (dynamic optimisation, multi-objective techniques, hyperheuristics)
+Applications of the above to Software Engineering
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
