@@ -4,11 +4,11 @@ title: Home
 ---
 
 
-  <div class="post">
+<div class="post">
     
-    {% for p in paginator.posts %}
-    {% if p.title == 'publications' %}
-    {{p.content}}
-    {% endif %}
-    {% endfor %}
-  </div>
+  {% for p in paginator.posts %}
+  {% if p.title == 'publications' %}
+  {{p.content}}
+  {% endif %}
+  {% endfor %}
+</div>
