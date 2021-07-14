@@ -1,6 +1,6 @@
 ---
 layout: default
-title: George Gomes Cabral, Dr
+title: teste
 ---
 
 ## Teste
