@@ -20,19 +20,20 @@
 
 
     
-<ul>
-   {% for item in site.pages.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item" href="index.html">About</a>
+      <ul>
+        {% for item in site.pages.samplelist.docs %}
+           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+     </ul>
+      <!-- <a class="sidebar-nav-item" href="index.html">About</a>
       <a class="sidebar-nav-item" href="publications.html">Publications</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Teaching</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Projects</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Source Code/Data</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Contact</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Contact</a> -->
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
