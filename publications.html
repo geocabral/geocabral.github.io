@@ -1,15 +1,14 @@
 ---
 layout: default
-title: pubs
+title: Home
 ---
 
 
-<div class="post">
+  <div class="post">
     
-  {% for p in paginator.posts %}
-  {% if p.title == 'George Gomes Cabral, Dr' %}
-  {{p.content}}
-  {% endif %}
-  {% endfor %}
-
-</div>
+    {% for p in paginator.posts %}
+    {% if p.title == 'Publications' %}
+    {{p.content}}
+    {% endif %}
+    {% endfor %}
+  </div>
