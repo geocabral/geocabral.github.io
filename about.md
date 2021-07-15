@@ -27,5 +27,5 @@ title: George Gomes Cabral, Dr
 
 ### Contact
 
-* Email: george.gcabral@ufrpe.br
+* Email: <george.gcabral@ufrpe.br>
 * Skype: geocabral
