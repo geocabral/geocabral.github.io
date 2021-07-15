@@ -19,17 +19,8 @@
     </div>
 
 
-    
-
-
-    <nav class="sidebar-nav">
-      <ul>
-        {% for item in site.docs %}
-           <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-     </ul>
-      <!-- <a class="sidebar-nav-item" href="index.html">About</a>
-      <a class="sidebar-nav-item" href="publications.html">Publications</a>
+          <a class="sidebar-nav-item" href="{{site.baseurl}}{% link about.md %}" >About</a>
+      <a class="sidebar-nav-item" href="{{site.baseurl}}{% link publications.md %}">Publications</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Teaching</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Projects</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Source Code/Data</a>
