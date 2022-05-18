@@ -10,6 +10,7 @@ title: Publications
 
 
 ### Journals
+* CABRAL, G.; MINKU, L.L. . Towards Reliable Online Just-in-time Software Defect Prediction, IEEE Transactions on Software Engineering (TSE), 2022 (accepted).
 
 * CABRAL, G. G.; Oliveira, A.L.I. . One-Class Classification based on searching for the problem features limits. Expert Systems with Applications, p. 7182-7199, 2014.
 
