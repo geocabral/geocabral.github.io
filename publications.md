@@ -11,10 +11,6 @@ title: Publications
 
 ### Journals
 
-* Cabral, George G.; VALENÇA, GEORGE ; SOUZA, CAMILA N. P. ; EMANNUEL, YVES . Contabilidade Pública - uma Ferramenta de Suporte à Auditoria de Dados em Municípios do Estado de Pernambuco. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, Brasil. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2023), 2023. p. 177.
-
-* EMMANUEL, Y. ; SILVA, F. S. ; G. CABRAL, GEORGE ; SANTOS, G. A. V. . Inovação na Contabilidade Pública - uma Solução que Analisa Atrasos de Pagamentos em Municípios Pernambucanos. In: Simposio Brasileiro de Sistemas de Informação, 2023, Maceió. XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
-
 * Cabral, G.G., Minku, L.L., Oliveira, A.L. et al. An investigation of online and offline learning models for online Just-in-Time Software Defect Prediction. Empir Software Eng 28, 121 (2023). https://doi.org/10.1007/s10664-023-10335-6
 
 * CABRAL, G.; MINKU, L.L. . Towards Reliable Online Just-in-time Software Defect Prediction, IEEE Transactions on Software Engineering (TSE), 2022 (accepted).
@@ -24,6 +20,10 @@ title: Publications
 * CABRAL, G. G.; Oliveira, A.L.I. ; CAHU, C. B. . Combining Nearest Neighbor Data Description and Structural Risk Minimization for One-Class Classification. Neural Computing & Applications
 
 ### Conferences
+
+* Cabral, George G.; VALENÇA, GEORGE ; SOUZA, CAMILA N. P. ; EMANNUEL, YVES . Contabilidade Pública - uma Ferramenta de Suporte à Auditoria de Dados em Municípios do Estado de Pernambuco. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, Brasil. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2023), 2023. p. 177.
+
+* EMMANUEL, Y. ; SILVA, F. S. ; G. CABRAL, GEORGE ; SANTOS, G. A. V. . Inovação na Contabilidade Pública - uma Solução que Analisa Atrasos de Pagamentos em Municípios Pernambucanos. In: Simposio Brasileiro de Sistemas de Informação, 2023, Maceió. XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
 
 * TABASSUM, S. ; L. MINKU, LEANDRO ; FENG, D. ; G. CABRAL, GEORGE ; SONG, L. . An Investigation of Cross-Project Learning in Online Just-In-Time Software Defect Prediction. In: 42nd International Conference on Software Engineering (ICSE 2020), 2020, Seoul. International Conference on Software Engineering, 2020.
 
