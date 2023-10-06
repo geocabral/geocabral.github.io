@@ -13,7 +13,7 @@ title: Publications
 
 * Cabral, G.G., Minku, L.L., Oliveira, A.L. et al. An investigation of online and offline learning models for online Just-in-Time Software Defect Prediction. Empir Software Eng 28, 121 (2023). https://doi.org/10.1007/s10664-023-10335-6
 
-* CABRAL, G.; MINKU, L.L. . Towards Reliable Online Just-in-time Software Defect Prediction, IEEE Transactions on Software Engineering (TSE), 2022 (accepted).
+* G. G. Cabral and L. L. Minku, "Towards Reliable Online Just-in-Time Software Defect Prediction," in IEEE Transactions on Software Engineering, vol. 49, no. 3, pp. 1342-1358, 1 March 2023, doi: 10.1109/TSE.2022.3175789.
 
 * CABRAL, G. G.; Oliveira, A.L.I. . One-Class Classification based on searching for the problem features limits. Expert Systems with Applications, p. 7182-7199, 2014.
 
