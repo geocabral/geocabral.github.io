@@ -10,6 +10,13 @@ title: Publications
 
 
 ### Journals
+
+* Cabral, George G.; VALENÇA, GEORGE ; SOUZA, CAMILA N. P. ; EMANNUEL, YVES . Contabilidade Pública - uma Ferramenta de Suporte à Auditoria de Dados em Municípios do Estado de Pernambuco. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, Brasil. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2023), 2023. p. 177.
+
+* EMMANUEL, Y. ; SILVA, F. S. ; G. CABRAL, GEORGE ; SANTOS, G. A. V. . Inovação na Contabilidade Pública - uma Solução que Analisa Atrasos de Pagamentos em Municípios Pernambucanos. In: Simposio Brasileiro de Sistemas de Informação, 2023, Maceió. XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
+
+* Cabral, G.G., Minku, L.L., Oliveira, A.L. et al. An investigation of online and offline learning models for online Just-in-Time Software Defect Prediction. Empir Software Eng 28, 121 (2023). https://doi.org/10.1007/s10664-023-10335-6
+
 * CABRAL, G.; MINKU, L.L. . Towards Reliable Online Just-in-time Software Defect Prediction, IEEE Transactions on Software Engineering (TSE), 2022 (accepted).
 
 * CABRAL, G. G.; Oliveira, A.L.I. . One-Class Classification based on searching for the problem features limits. Expert Systems with Applications, p. 7182-7199, 2014.
